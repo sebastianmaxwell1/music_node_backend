@@ -184,10 +184,27 @@
     "releaseDate": "02/18/2003"
   },
   {
-    "id": 24,
-    "title": "TNRG",
+    "id": "24",
+    "title": "TARG",
     "artist": "DAX",
     "album": "Single",
-    "release_date": "2021-03-26T00:00:00Z"
+    "genre": "Rap",
+    "releaseDate": "2021-03-26T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "title": "Joker",
+    "artist": "DAX",
+    "album": "Single",
+    "genre": "Rap",
+    "releaseDate": "2021-03-26T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "title": "test",
+    "album": "test",
+    "artist": "test",
+    "genre": "test",
+    "releaseDate": "0001-01-01"
   }
 ]
